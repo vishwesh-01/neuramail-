@@ -1,5 +1,3 @@
-GitHub Copilot Chat Assistant — draft README for neuramail-
-
 # NeuraMail
 
 NeuraMail is an experimental intelligent email assistant that combines a lightweight HTML frontend with a Python backend to help users compose, summarize, classify, and reply to emails more effectively using natural language techniques and ML/NLP components.
